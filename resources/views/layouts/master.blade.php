@@ -68,7 +68,23 @@
     <![endif]-->
 </head>
 <body class="">
-@yield('content')
+    <div id="wrapper">
+
+        <!-- preloader -->
+        <div id="preloader">
+            <div id="spinner">
+                <div class="preloader-dot-loading">
+                    <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+                </div>
+            </div>
+{{--            <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>--}}
+        </div>
+
+        @yield('content')
+        @include('layouts.footer')
+
+        <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+    </div>
 
 <!-- end wrapper -->
 
