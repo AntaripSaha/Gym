@@ -32,7 +32,7 @@
                             <ul class="dropdown">
                                 <li><a href="#">Gallery</a>
                                     <ul class="dropdown">
-                                        <li><a href="page-gallery.html">Gallery</a></li>
+                                        <li><a href="{{route('gallery')}}">Gallery</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="{{route('course')}}">Courses</a>

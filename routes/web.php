@@ -25,4 +25,6 @@ Route::get('/contact', function () {
 Route::get('/course', function () {
     return view('frontend.course');
 })->name('course');
-
+Route::get('/gallery', function () {
+    return view('frontend.gallery');
+})->name('gallery');
