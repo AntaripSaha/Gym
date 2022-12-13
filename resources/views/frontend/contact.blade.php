@@ -14,7 +14,7 @@
                             <ol class="breadcrumb text-center text-black mt-10">
                                 <li><a href="#">Home</a></li>
                                 <li><a href="#">Pages</a></li>
-                                <li class="active text-theme-colored">Page Title</li>
+                                <li class="active text-theme-colored">Contact</li>
                             </ol>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                     </div>
                     <div class="col-md-6">
                         <h3 class="line-bottom mt-0">Get in touch with us</h3>
-                        <p>Aliquam officia dolor rerum enim doloremque iusto eos atque tempora dignissimos similique, quae, maxime sit accusantium delectus.</p>
+                        <p>THE ULTIMATE TRAINING FACILITY.</p>
                         <ul class="styled-icons icon-dark icon-sm icon-circled mb-20">
                             <li><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>

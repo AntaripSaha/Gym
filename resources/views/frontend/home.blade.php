@@ -382,8 +382,8 @@
                         <div class="col-md-10 col-md-offset-1">
                             <h2 class=" line-bottom-double-line-centered mt-0">Welcome to <span
                                     class="text-theme-colored2">Fitness</span> Zone</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>If you want to grow a certain muscle, you might be tempted to <br> train it every day but it's important to include rest days.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -394,7 +394,8 @@
                             <img class="img-circle img-thumbnail mb-15"
                                  src="{{asset('frontend/images/gym/about/sq1.jpg')}}" alt="">
                             <h3 class="mb-5">Cardio Fitness</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero omnis unde nesciunt?</p>
+                            <p>Cardio fitness measures how well your body can perform a rhythmic, dynamic activity
+                            </p>
                             <a href="#" class="btn btn-theme-colored2">Read more</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 mb-sm-40 wow fadeInLeft" data-wow-duration="1s"
@@ -402,7 +403,8 @@
                             <img class="img-circle img-thumbnail mb-15"
                                  src="{{asset('frontend/images/gym/about/sq2.jpg')}}" alt="">
                             <h3 class="mb-5">Aqua Fitness</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero omnis unde nesciunt?</p>
+                            <p>Aqua fitness covers a range of exercises you can do in the pool aqua aerobics, aqua jogging
+                            </p>
                             <a href="#" class="btn btn-theme-colored2">Read more</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 mb-sm-40 wow fadeInLeft" data-wow-duration="1s"
@@ -410,7 +412,8 @@
                             <img class="img-circle img-thumbnail mb-15"
                                  src="{{asset('frontend/images/gym/about/sq3.jpg')}}" alt="">
                             <h3 class="mb-5">Boxing Fitness</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero omnis unde nesciunt?</p>
+                            <p>Aerobic exercise gets your heart pumping and helps lower the risk of high blood pressure
+                            </p>
                             <a href="#" class="btn btn-theme-colored2">Read more</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-3 mb-sm-0 wow fadeInLeft" data-wow-duration="1s"
@@ -418,7 +421,7 @@
                             <img class="img-circle img-thumbnail mb-15"
                                  src="{{asset('frontend/images/gym/about/sq4.jpg')}}" alt="">
                             <h3 class="mb-5">Zumba Fitness</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero omnis unde nesciunt?</p>
+                            <p>Zumba targets lots of different muscle groups at once for total body toning - boosts your heart health</p>
                             <a href="#" class="btn btn-theme-colored2">Read more</a>
                         </div>
                     </div>
@@ -444,16 +447,16 @@
                                                                                            src="{{asset('frontend/images/gym/event/sq1.jpg')}}">
                                 </div>
                                 <div class="event-content text-white">
-                                    <h3 class="mt-0"><a href="page-event-single.html" class="text-white">Strong Body
+                                    <h3 class="mt-0"><a href="#" class="text-white">Strong Body
                                             Strong Mind</a></h3>
                                     <ul class="mb-5 text-white">
                                         <li><i class="fa fa-calendar-plus-o mr-10"></i>June 26, 2019</li>
                                         <li><i class="fa fa-clock-o mr-10"></i>9:00 AM - 5:00 PM</li>
                                         <li><i class="fa fa-globe mr-10"></i>New York</li>
                                     </ul>
-                                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas
-                                        eveniet, nemo dicta. Ullam nam.</p>
-                                    <a class="text-white" href="page-event-single.html">Read More →</a>
+                                    <p class="text-white">If your goal is to build bigger legs and glutes, your ideal workout split will look different build a broad back and shoulders.
+                                    </p>
+                                    <a class="text-white" href="#">Read More →</a>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
@@ -462,16 +465,15 @@
                                                                                            src="{{asset('frontend/images/gym/event/sq2.jpg')}}">
                                 </div>
                                 <div class="event-content text-white">
-                                    <h3 class="mt-0 text-white"><a href="page-event-single.html" class="text-white">Group
+                                    <h3 class="mt-0 text-white"><a href="#" class="text-white">Group
                                             Classes For Everyone</a></h3>
                                     <ul class="mb-5 text-white">
                                         <li><i class="fa fa-calendar-plus-o mr-10"></i>June 26, 2019</li>
                                         <li><i class="fa fa-clock-o mr-10"></i>9:00 AM - 5:00 PM</li>
                                         <li><i class="fa fa-globe mr-10"></i>New York</li>
                                     </ul>
-                                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas
-                                        eveniet, nemo dicta. Ullam nam.</p>
-                                    <a class="text-white" href="page-event-single.html">Read More →</a>
+                                    <p class="text-white">Fitness training balances five elements of good health includes aerobic fitness, strength training, core exercises, balance training.</p>
+                                    <a class="text-white" href="#">Read More →</a>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
@@ -489,8 +491,8 @@
                         <div class="col-md-10 col-md-offset-1">
                             <h2 class="text-uppercase line-bottom-double-line-centered mt-0"> Why <span
                                     class="text-black">Choose Us </span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>When TKMMAFIT was created, the motivation behind the essence of the brand was stronger and fit community is a happier and healthier one
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -503,8 +505,7 @@
                                     <i class="flaticon-gym-cardio-1 font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Cardio Fitness</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>Getting your cardio in on the reg can improve heart health by lowering cholesterol levels and reducing your risk of heart disease.</p>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon media text-right p-0 mb-sm-10 mt-30">
@@ -513,8 +514,7 @@
                                     <i class="flaticon-gym-jump-rope font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Aqua Fitness</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>It gives you a good cardiovascular workout, gently increasing your pulse and breathing rate, so it's great for helping to improve your heart health.</p>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon media text-right p-0 mb-sm-10 mt-30">
@@ -523,8 +523,7 @@
                                     <i class="flaticon-gym-dumbbell-1 font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Zumba fitness</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>During a Zumba class,you'll follow choreography with footwork that works your leg muscles,arm movements that tone your arm</p>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon media text-right p-0 mb-sm-10 mt-30">
@@ -533,8 +532,7 @@
                                     <i class="flaticon-gym-jump-rope font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Aerobic Fitness</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>With aerobic exercise, cells undergo cellular respiration, in which oxygen and other molecules are converted into adenosine triphosphate.</p>
                                 </div>
                             </div>
                         </div>
@@ -548,8 +546,8 @@
                                     <i class="flaticon-gym-punching-bag font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Boxing</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>High-intensity interval training has been associated with a decreased risk of heart disease - bouts of high-intensity activity
+                                    </p>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon left media p-0 mb-sm-10 mt-30">
@@ -558,8 +556,9 @@
                                     <i class="flaticon-gym-cardio font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Indoor Cyciling</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>Indoor Cycling is an intense workout with which you can burn a lot of calories if you do it right.
+                                    </p>
+                                    <br>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon left media p-0 mb-sm-10 mt-30">
@@ -568,8 +567,9 @@
                                     <i class="flaticon-gym-weights font-36 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Yoga Platies</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>Yoga is as good as basic stretching for easing pain and improving mobility in people with lower back pain.
+                                    </p>
+                                    <br>
                                 </div>
                             </div>
                             <div class="icon-box icon-theme-colored benefit-icon left media p-0 mb-sm-10 mt-30">
@@ -578,8 +578,8 @@
                                     <i class="flaticon-gym-kettlebellsr font-46 text-white"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading">Strength Training</h4>
-                                    <p>Ecoforestry is a creative skill and a joy beyond anything found within
-                                        conventional forestry</p>
+                                    <p>Gaining strength allows you to perform daily tasks much easier, such as carrying heavy groceries.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -599,8 +599,7 @@
                             <div class="title-icon">
                                 <img class="mb-10" src="{{asset('frontend/images/title-icon.png')}}" alt="">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>Step up your fitness game with a membership plan that works for you sophisticated amenities help you get the most out of your workout experience</p>
                         </div>
                     </div>
                 </div>
@@ -633,7 +632,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>This is a complete guide for teens that includes workouts and nutritional advice to help you maximize progress.
+                                </p>
                                 <ul class="mb-5 font-16">
                                     <li></li>
                                 </ul>
@@ -667,7 +667,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Make sure you do it properly with this beginner guide to boxing training. Your fitness goal may be boxing is a great way to get in shape.
+</p>
                                 <ul class="mb-5 font-16">
                                     <li></li>
                                 </ul>
@@ -701,7 +702,7 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>If the reason you want to learn Muay Thai is to lose weight and build a lean muscular body, it should take you around a year.</p>
                                 <ul class="mb-5 font-16">
                                     <li></li>
                                 </ul>
@@ -735,7 +736,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Featuring music and moves for kids and teens, BORN TO MOVE™ combines fun and fitness in a way that children love.
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">View Details</a>
                             </div>
                         </div>
@@ -766,7 +768,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>MMA is one of the best workouts when it comes to fat or weight loss. It's an intense cardiovascular activity, similar to a HIIT-style workout.
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">View Details</a>
                             </div>
                         </div>
@@ -797,7 +800,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>It's a well-publicized fact that Brazilian Jiu Jitsu takes a long time to get to your black belt. The average time it takes to achieve this is usually around 10 years.
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">View Details</a>
                             </div>
                         </div>
@@ -844,8 +848,8 @@
                             <div class="title-icon">
                                 <img class="mb-10" src="{{asset('frontend/images/title-icon.png')}}" alt="">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>Full-body workout routines hit every major muscle group this list of full-body exercises can help you maximize your training time and reach your fitness goals faster.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -997,8 +1001,8 @@
                         <div class="col-md-6 ">
                             <div class="p-40 bg-theme-colored2 text-white pull-left">
                                 <h2 class="mt-0 text-white">Sign Up Today And Save!</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati.</p>
+                                <p>Gaining strength allows you to perform daily tasks much easier, such as carrying heavy groceries.
+                                </p>
                                 <!-- Appointment Form -->
                                 <form id="appointment_form" name="appointment_form" class="" method="post" action="#">
                                     <div class="row">
@@ -1074,8 +1078,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="mt-0 line-height-1">Meet Our <span class="text-black">Expert Trainers</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>This is a complete guide for teens that includes workouts and nutritional advice to help you maximize progress.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1274,8 +1278,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="mt-0 text-white">Some Funfacts</h2>
-                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem
-                                autem<br> voluptatem obcaecati!</p>
+                            <p class="text-white">This is a complete guide for teens that includes workouts and nutritional advice to help
+                                <br> you maximize progress!</p>
                         </div>
                     </div>
                 </div>
@@ -1325,8 +1329,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="mt-0 line-height-1">Our <span class="text-theme-colored2">Gallery</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>Indoor Cycling is an intense workout with which you can burn a lot of calories if you do it right.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1511,8 +1515,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="mt-0 line-height-1">Shop Sports <span class="text-black">Products</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>Aqua fitness covers a range of exercises you can do in the pool aqua aerobics, aqua jogging
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1643,8 +1647,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="text-uppercase text-white mt-0 line-height-1">Testimonial</h2>
-                            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem
-                                autem<br> voluptatem obcaecati!</p>
+                            <p class="text-white">During a Zumba class, you'll follow choreography with footwork that works your leg muscles, arm movements that
+                                <br>  tone your arm muscles</p>
                         </div>
                     </div>
                 </div>
@@ -1656,8 +1660,7 @@
                                     <div class="testimonial testimonial-yoga">
                                         <div class="comment p-30 bg-theme-colored2-transparent-8">
                                             <h4 class="comment-title text-white">Truly Recommended for This Company</h4>
-                                            <p class="text-white">Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                elitvolup tatem error sit qui dolorem facilis.</p>
+                                            <p class="text-white">Getting your cardio in on the reg can improve heart health by lowering cholesterol levels and reducing your risk of heart disease.</p>
                                         </div>
                                         <div class="content mt-20">
                                             <div class="thumb pull-left flip mr-20">
@@ -1675,8 +1678,8 @@
                                     <div class="testimonial testimonial-yoga">
                                         <div class="comment p-30 bg-theme-colored2-transparent-8">
                                             <h4 class="comment-title text-white">Truly Recommended for This Company</h4>
-                                            <p class="text-white">Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                elitvolup tatem error sit qui dolorem facilis.</p>
+                                            <p class="text-white">If your goal is to build bigger legs and glutes, your ideal workout split will look different build a broad back and shoulders
+                                            </p>
                                         </div>
                                         <div class="content mt-20">
                                             <div class="thumb pull-left flip mr-20">
@@ -1694,8 +1697,8 @@
                                     <div class="testimonial testimonial-yoga">
                                         <div class="comment p-30 bg-theme-colored2-transparent-9">
                                             <h4 class="comment-title text-white">Truly Recommended for This Company</h4>
-                                            <p class="text-white">Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                elitvolup tatem error sit qui dolorem facilis.</p>
+                                            <p class="text-white">Indoor Cycling is an intense workout with which you can burn a lot of calories if you do it right.
+                                            </p>
                                         </div>
                                         <div class="content mt-20">
                                             <div class="thumb pull-left flip mr-20">
@@ -1713,8 +1716,8 @@
                                     <div class="testimonial testimonial-yoga">
                                         <div class="comment p-30 bg-theme-colored2-transparent-8">
                                             <h4 class="comment-title text-white">Truly Recommended for This Company</h4>
-                                            <p class="text-white">Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                elitvolup tatem error sit qui dolorem facilis.</p>
+                                            <p class="text-white">Yoga is as good as basic stretching for easing pain and improving mobility in people with lower back pain.
+                                            </p>
                                         </div>
                                         <div class="content mt-20">
                                             <div class="thumb pull-left flip mr-20">
@@ -1742,8 +1745,8 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="mt-0 line-height-1">Recent <span class="text-theme-colored">News</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem
-                                obcaecati!</p>
+                            <p>Fitness training balances five elements of good health includes aerobic fitness, strength training, core exercises, balance training
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1767,8 +1770,8 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor adipisicing amet, consectetur sit elit. Aspernatur incidihil
-                                        quo officia.</p>
+                                    <p>High-intensity interval training has been associated with a decreased risk of heart disease - bouts of high-intensity activity
+                                    </p>
                                     <a class="btn btn-theme-colored mt-10 mb-0 pull-left flip" href="#">Read more <i
                                             class="fa fa-angle-double-right"></i></a>
                                     <div class="clearfix"></div>
@@ -1793,8 +1796,8 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor adipisicing amet, consectetur sit elit. Aspernatur incidihil
-                                        quo officia.</p>
+                                    <p>Yoga is as good as basic stretching for easing pain and improving mobility in people with lower back pain.
+                                    </p>
                                     <a class="btn btn-theme-colored mt-10 mb-0 pull-left flip" href="#">Read more <i
                                             class="fa fa-angle-double-right"></i></a>
                                     <div class="clearfix"></div>
@@ -1819,8 +1822,8 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor adipisicing amet, consectetur sit elit. Aspernatur incidihil
-                                        quo officia.</p>
+                                    <p>Aerobic exercise gets your heart pumping and helps lower the risk of high blood pressure
+                                    </p>
                                     <a class="btn btn-theme-colored mt-10 mb-0 pull-left flip" href="#">Read more <i
                                             class="fa fa-angle-double-right"></i></a>
                                     <div class="clearfix"></div>

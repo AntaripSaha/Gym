@@ -31,7 +31,7 @@
                             <div class="title-icon">
                                 <img class="mb-10" src="{{asset('frontend/images/title-icon.png')}}" alt="">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
+                            <p>Full-body workout routines hit every major muscle group this list of full-body exercises can help you maximize your training <br> time and reach your fitness goals faster.</p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Indoor Cycling is an intense workout with which you can burn a lot of calories if you do it right.</p>
                                 <ul class="mb-5 font-16">
                                     <li></li>
                                 </ul>
@@ -96,7 +96,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Gaining strength allows you to perform daily tasks much easier, such as carrying heavy groceries.
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">Register Now</a>
                             </div>
                         </div>
@@ -126,7 +127,7 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Yoga is as good as basic stretching for easing pain and improving mobility in people with lower back pain.</p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">Register Now</a>
                             </div>
                         </div>
@@ -156,7 +157,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Aerobic exercise gets your heart pumping and helps lower the risk of high blood pressure
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">Register Now</a>
                             </div>
                         </div>
@@ -186,7 +188,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Aqua fitness covers a range of exercises you can do in the pool aqua aerobics, aqua jogging
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">Register Now</a>
                             </div>
                         </div>
@@ -216,7 +219,8 @@
                                     <li>|</li>
                                     <li>June 26, 2016</li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptatem obcaecati</p>
+                                <p>Gaining strength allows you to perform daily tasks much easier, such as carrying heavy groceries.
+                                </p>
                                 <a href="#" class="btn btn-dark btn-theme-colored">Register Now</a>
                             </div>
                         </div>
