@@ -30,7 +30,7 @@
                         <h3 class="line-bottom mt-0 mb-30">Interested in discussing?</h3>
 
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="https://kodesolution.com/html/2017/health-yoga-html/demo/includes/sendmail.php" method="post">
+                        <form id="contact_form" name="contact_form" class="" action="#" method="post">
 
                             <div class="row">
                                 <div class="col-sm-6">
